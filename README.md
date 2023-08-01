@@ -2,9 +2,7 @@
 
 
 
-<title> </title>
-<meta name="keywords" content=", , patoloji, atlas, pathology, whole slide image">
-<meta name="description" content=" ">
+
 
 
 
